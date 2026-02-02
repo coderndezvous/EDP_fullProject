@@ -1,0 +1,10 @@
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe.config
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.pdb
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.AssemblyReference.cache
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmLogin.resources
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.Properties.Resources.resources
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.GenerateResource.cache
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.CoreCompileInputs.cache
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.exe
+C:\Users\PCU GUEST\source\repos\AlingasaAeron2A\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.pdb
