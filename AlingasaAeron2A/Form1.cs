@@ -37,10 +37,13 @@ namespace AlingasaAeron2A
 
         }
 
-        private void label6_Click(object sender, EventArgs e)
+        string[,] userCredentials =
         {
-
-        }
+            { "admin", "cashier" },
+            { "admin", "password" },
+            { "Aeron Alingasa", "Marc Brian Papellero" },
+            { "Admin Department", "Staff Department" },
+        };
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
@@ -56,7 +59,25 @@ namespace AlingasaAeron2A
             }
             else
             {
-                MessageBox.Show("Welcome, " + tbUsername.Text + "!");
+                for (int x = 0; x < userCredentials.Length; x++)
+                {
+                    if (userCredentials[0,x] == tbUsername.Text)
+                    {
+                        if (userCredentials[1,x] == tbPassword.Text)
+                        {
+                            MessageBox.Show("Welcome " + userCredentials[2, x] + " from " + userCredentials[3,x]);
+                            frmHome frm = new frmHome();
+                            this.Hide();
+                            frm.Show();
+                            break;
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("Invalid username or password!");
+                        break;
+                    }
+                }
             }
         }
     }
