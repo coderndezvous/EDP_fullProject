@@ -18,3 +18,15 @@ C:\Users\1\Desktop\Alingasa\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.pdb
 C:\Users\1\Desktop\Alingasa\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe.config
 C:\Users\1\Desktop\Alingasa\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe
 C:\Users\1\Desktop\Alingasa\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.pdb
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe.config
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.pdb
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.AssemblyReference.cache
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.exe.config
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmLogin.resources
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmHome.resources
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.Properties.Resources.resources
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.GenerateResource.cache
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.CoreCompileInputs.cache
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.exe
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.pdb
