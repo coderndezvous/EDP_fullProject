@@ -30,3 +30,9 @@ C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAe
 C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.CoreCompileInputs.cache
 C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.exe
 C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.pdb
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmRegister.resources
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmPricebook.resources
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmStoreStatus.resources
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmTimeClock.resources
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmUsers.resources
+C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmVendors.resources

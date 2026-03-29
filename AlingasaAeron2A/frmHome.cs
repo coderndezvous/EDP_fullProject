@@ -17,34 +17,40 @@ namespace AlingasaAeron2A
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnRegister_Click(object sender, EventArgs e)
         {
-
+            frmRegister frm = new frmRegister();
+            frm.ShowDialog();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void btnStoreStatus_Click(object sender, EventArgs e)
         {
-
+            frmStoreStatus frm = new frmStoreStatus();
+            frm.ShowDialog();
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void btnPricebook_Click(object sender, EventArgs e)
         {
-
+            frmPricebook frm = new frmPricebook();
+            frm.ShowDialog();
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void btnVendors_Click(object sender, EventArgs e)
         {
-
+            frmVendors frm = new frmVendors();
+            frm.ShowDialog();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void btnUsers_Click(object sender, EventArgs e)
         {
-
+            frmUsers frm = new frmUsers();
+            frm.ShowDialog();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnTimeClock_Click(object sender, EventArgs e)
         {
-
+            frmTimeClock frm = new frmTimeClock();
+            frm.ShowDialog();
         }
     }
 }
