@@ -36,3 +36,27 @@ C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAe
 C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmTimeClock.resources
 C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmUsers.resources
 C:\Users\aeron\Source\Repos\EDP_fullProject\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmVendors.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe.config
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.pdb
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.AssemblyReference.cache
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmLogin.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmHome.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmPricebook.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.Properties.Resources.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmRegister.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmStoreStatus.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmTimeClock.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmUsers.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmVendors.resources
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.GenerateResource.cache
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.CoreCompileInputs.cache
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.exe
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.pdb
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\MySql.Data.dll
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\System.Memory.dll
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\System.Buffers.dll
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\MySql.Data.xml
+C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\Alingasa.F7B16628.Up2Date
