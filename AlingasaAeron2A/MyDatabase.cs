@@ -11,7 +11,7 @@ namespace AlingasaAeron2A
 {
     internal class MyDatabase
     {
-        string connectionString = "Server=localhost;Port=3306;Database='alingasa_db';Uid='root';Pwd=''";
+        string connectionString = "Server=localhost;Port=3306;Database='alingasa_db';Uid='root';Pwd=''; Allow User Variables=true;AllowBatch=True";
 
         public bool TestConnection()
         {
@@ -64,5 +64,38 @@ namespace AlingasaAeron2A
                 return dataTable;
             }
         }
+
+        public int ExecuteNoReturnQuery(string query, params MySqlParameter[] parameters)
+        {
+            int affectedRows = 0;
+            using (MySqlConnection con = new MySqlConnection(connectionString))
+            {
+                MySqlCommand command = new MySqlCommand(query, con);
+                if (parameters != null)
+                {
+                    foreach (MySqlParameter param in parameters)
+                    {
+                        command.Parameters.Add(param);
+                    }
+
+                }
+                try
+                {
+                    con.Open();
+                    affectedRows = command.ExecuteNonQuery();
+
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Execution failed: " + ex.Message);
+                }
+                finally
+                {
+                    con.Close();
+                }
+                return affectedRows;
+            }
+        }
+
     }
 }

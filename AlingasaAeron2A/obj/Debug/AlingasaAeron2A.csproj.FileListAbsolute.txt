@@ -60,3 +60,26 @@ C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\System.Numerics.
 C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\System.Buffers.dll
 C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\bin\Debug\MySql.Data.xml
 C:\Users\SHS STUDENT\Downloads\Log In\AlingasaAeron2A\obj\Debug\Alingasa.F7B16628.Up2Date
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.AssemblyReference.cache
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmLogin.resources
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmHome.resources
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmPricebook.resources
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.Properties.Resources.resources
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmRegister.resources
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmStoreStatus.resources
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmTimeClock.resources
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmUsers.resources
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.frmVendors.resources
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.GenerateResource.cache
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.csproj.CoreCompileInputs.cache
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.exe
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\AlingasaAeron2A.pdb
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe.config
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.exe
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\bin\Debug\AlingasaAeron2A.pdb
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\bin\Debug\System.Memory.dll
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\bin\Debug\System.Buffers.dll
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\bin\Debug\MySql.Data.xml
+C:\Users\aeron\Proj\EDP Push\AlingasaAeron2A\obj\Debug\Alingasa.F7B16628.Up2Date
